@@ -1,4 +1,4 @@
-# JavaScript-The-Complete-Guide-2022-Beginner-Advanced--by-Maximilian-Schwarzmuller
+# JavaScript-The-Complete-Guide-2022-Beginner-Advanced-by-Maximilian-Schwarzmuller
 🔥Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2022.🔥
 
  1.  Introduction
